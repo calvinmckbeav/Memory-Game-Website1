@@ -1,0 +1,11 @@
+#grid {
+  width:600px;
+  height:450px;
+  display: flex;
+  margin-left: 650px;
+  flex-wrap: wrap;
+}
+
+h3 {
+  text-align: center;
+}
